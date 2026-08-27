@@ -1,5 +1,6 @@
 ## Hi there 👋
 I am currently a student at CSUF who enjoys the process of creating software and this is my github to showcase a bit of it. Whether it be creating fun video games for my baby cousin or working on an ai engine to help people make better decisions, I can find fun in it all.
+
 Resume - https://drive.google.com/file/d/1IoYa-vSF_C9Jm1q3hLH1J3OIWnY3z8HY/view?usp=sharing
 
 ---
