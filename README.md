@@ -8,13 +8,12 @@ Resume - https://drive.google.com/file/d/1IoYa-vSF_C9Jm1q3hLH1J3OIWnY3z8HY/view?
 
 *   Shy/introverted
 *   Optimistic and positive about life/work
-*   completionist : little problems or bugs or unfinished work eats at me.
-
+  
 ---
 ###  Fun Facts ᕙ(⇀‸↼‶)ᕗ
 
 1. I can wheelie for dayzz on a motorcycle 🏍️
-2. Love love love reading fantasy(dark) 📚📚  
+2. Love reading fantasy(dark) 📚📚  
 
 ---
 
