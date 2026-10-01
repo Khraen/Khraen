@@ -11,13 +11,13 @@ Resume - https://drive.google.com/file/d/1zVBHIwdyzzSWvYSgAo7J1SUTa0b48imD/view?
 *   OS most familiar with: MacOS, Linux, Windows
 ### Current Endeavors
 
-* AI Youthforce development Intern
-  - Mainly sse AI tooling to automate administrative processes for city of La Puente.
+* Job: AI Youthforce development Intern
+  - Mainly use AI tooling to automate administrative processes for city of La Puente.
 
 * Web Surfing Studios Member
-  - apart of a software engineering program that mimics enterprise systems by creating custom made systems.
+  - apart/accepted into of a software engineering program/community that mimics enterprise systems by creating custom built and used systems.
   - bridges the gap between degree and hitting the ground running as a junior dev.
-
+  - https://websurfingstudios.com/
 
 ---
 ### Personality ^.^
