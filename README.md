@@ -3,6 +3,21 @@ I am currently a student at CSUF who enjoys the process of creating software and
 
 Resume - https://drive.google.com/file/d/1zVBHIwdyzzSWvYSgAo7J1SUTa0b48imD/view?usp=sharing
 
+### Tech Stack 💻
+
+*   **Languages I've written in:** C++, Python, C#, JavaScript, R, Java, SQL/MySQL
+*   **Frameworks & Libraries I've used:** Qt Framework, React, Vite, OpenSSL, Unity, Flask/Flask-SocketIO, FastAPI, Numpy, Pandas, Matplotlib, scikit-learn
+*   **Tools & Platforms:** Git, GitHub, Render, AWS, VS Code(fav IDE)
+*   OS most familiar with: MacOS, Linux, Windows
+### Current Endeavors
+
+* AI Youthforce development Intern
+  - Mainly sse AI tooling to automate administrative processes for city of La Puente.
+
+* Web Surfing Studios Member
+  - apart of a software engineering program that mimics enterprise systems by creating custom made systems.
+  - bridges the gap between degree and hitting the ground running as a junior dev.
+
 
 ---
 ### Personality ^.^
@@ -22,12 +37,5 @@ Resume - https://drive.google.com/file/d/1zVBHIwdyzzSWvYSgAo7J1SUTa0b48imD/view?
 
 *   **📫 How to reach me:** mattholguin@proton.me
 *   **💬 Ask me about:** My Projects, collaborations, or building something cool for you (its hard to think of personal proj ideas).
-  
-### Tech Stack 💻
-
-*   **Languages I've written in:** C++, Python, C#, JavaScript, R, Java, SQL/MySQL
-*   **Frameworks & Libraries I've used:** Qt Framework, React, Vite, OpenSSL, Unity, Flask/Flask-SocketIO, Numpy, Pandas, Matplotlib, scikit-learn
-*   **Tools & Platforms:** Git, GitHub, Render, AWS, VS Code(fav IDE)
-*   OS most familiar with: MacOS, Linux, Windows
 
 
