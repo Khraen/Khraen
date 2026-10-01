@@ -16,6 +16,7 @@ Resume - https://drive.google.com/file/d/1zVBHIwdyzzSWvYSgAo7J1SUTa0b48imD/view?
 
 * Web Surfing Studios Member
   - apart/accepted into of a software engineering program/community that mimics enterprise systems by creating custom built and used systems.
+  - Unpaid volunteer/trainee/contributor
   - bridges the gap between degree and hitting the ground running as a junior dev.
   - https://websurfingstudios.com/
 
