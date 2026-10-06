@@ -11,7 +11,7 @@ Resume - https://drive.google.com/file/d/1zVBHIwdyzzSWvYSgAo7J1SUTa0b48imD/view?
 *   OS most familiar with: MacOS, Linux, Windows
 ### Current Endeavors
 
-* Job: AI Youthforce development Intern -> Skillset Gives
+* Job: AI Youthforce development Intern -> Skillset Group
   - Mainly use AI tooling to automate administrative processes for city of La Puente.
 
 * Web Surfing Studios Member
