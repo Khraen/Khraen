@@ -23,7 +23,7 @@ Resume - https://drive.google.com/file/d/1IoYa-vSF_C9Jm1q3hLH1J3OIWnY3z8HY/view?
 ---
 ### Personality ^.^
 
-*   Shy/introverted
+*   introverted
 *   Optimistic and positive about life/work
   
 ---
